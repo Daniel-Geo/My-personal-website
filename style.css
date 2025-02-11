@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    justify-items: center;
+    font-family: 'Blanka', sans-serif;
+}
+h1, p {
+    color: white;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
